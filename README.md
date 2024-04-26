@@ -1,3 +1,5 @@
+# I'm new at using GitHub, My README.md needs updated lol
+
 # AI Generated Coding 
 
 ## Questions and Answers Chat history for AI Chatbots like ChatGpt.
