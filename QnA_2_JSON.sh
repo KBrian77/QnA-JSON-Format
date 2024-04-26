@@ -3,6 +3,7 @@
 # Uses questions.txt file that has the questions and saves chat_hist.json in json format as chat history for an AI
 # Starts questions where I stopped answering questions
 # e to exit
+# Remember this code will not work unless you have a questions.txt file that has each questions that end with a ? mark and each question is on an its own individual line
 
 # Initialize variables
 question_file="questions.txt"
