@@ -1,4 +1,5 @@
 #!/bin/bash
+USE The UPDATED New_QnA_2JSON.sh File SO JSON DATA IS FORMATTED CORRECTLY
 # This script uses a file with Questions in it and asks me each question and saves question and answer in json format so i can use it with ChatNBX aka tune chat api to  fine tune it
 # Uses questions.txt file that has the questions and saves chat_hist.json in json format as chat history for an AI
 # Starts questions where I stopped answering questions
