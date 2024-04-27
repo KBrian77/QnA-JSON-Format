@@ -1,2 +1,5 @@
-# example of questions.txt 
+# example of questions.txt file you must have to run script. Delete the text from this file and add your own questions or delete the file and create a new file named questions.txt 
 
+What's your name?
+Where was you born at?
+What is your birthday?
